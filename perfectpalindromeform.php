@@ -8,7 +8,7 @@
   <title>TITLE</title> 
 </head> 
 <body> 
-<h1>Web Programming Form Hoang Viet Truong#5</h1>
+<h1>Web Programming Form Hoang Viet Truong6</h1>
 <form action = "perfectpalindrome.php" method = "post" > 
   Enter word: <input type="string" name ="stringtest">
 <input type="submit">
